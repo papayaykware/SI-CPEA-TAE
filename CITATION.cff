@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Cite el repositorio y la versión consultada. Añada el DOI de archivo cuando exista una versión depositada."
+title: "SI-CPEA-TAE: Superinteligencia, coexistencia predictiva humano-IA y evolución asimétrica"
+type: software
+authors:
+  - family-names: "Ciborro"
+    given-names: "Javi"
+    affiliation: "Independent research project"
+version: "0.1.0-pre1"
+date-released: "2026-11-25"
+url: "https://github.com/papayaykware/SI-CPEA-TAE"
+abstract: "Marco de investigación teórico-computacional sobre coexistencia humano-IA bajo asimetría cognitiva, autonomía y transformación recursiva."
+keywords:
+  - artificial intelligence
+  - AI safety
+  - human-AI coexistence
+  - recursive learning
+  - cognitive asymmetry
+  - predictive coherence
+  - falsifiability
